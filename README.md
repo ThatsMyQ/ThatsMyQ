@@ -1,4 +1,3 @@
-## Hi there 👋
 # Quentin Dorsey — People Analytics & I-O Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/qdorsey)
